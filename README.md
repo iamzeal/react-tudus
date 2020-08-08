@@ -1,2 +1,3 @@
-# react-tudus
-Simple react todo app
+# Todo App
+
+## React.js
